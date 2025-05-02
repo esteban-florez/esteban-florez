@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Esteban Florez, Desarrollador Web 👨‍💻
+## 👋 ¡Hola! Soy Esteban Florez, Desarrollador Web 👨‍💻
 
-¡Bienvenido a mi pefil de GitHub! Soy Ingeniero en Informática 🚀 con experiencia en crear aplicaciones web tanto en el front-end como en el back-end. Me encanta resolver problemas 💡 y siempre estoy listo para aprender nuevas tecnologías. Puedes ver mi sitio web de portafolio personal aquí: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
+¡Bienvenido a mi pefil de GitHub! Soy Ingeniero en Informática 🚀 con experiencia en crear aplicaciones web tanto en el front-end como en el back-end. Me encanta resolver problemas 💡 y siempre estoy listo para aprender nuevas tecnologías.
+
+Actualmente estoy en busca de oportunidaes de empleo, si deseas contactarme, tienes la información de contacto en mi sitio web de portafolio personal, aquí: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
 
 ## 🛠️  ¿Qué puedo hacer?
 
@@ -30,5 +32,7 @@ He tenido la oportunidad de trabajar en proyectos como:
 ## 🔗  ¡Conectemos!
 
 * **Correo Electrónico:** eflorez077@gmail.com 📧
+* **LinkedIn:** [Esteban Florez](www.linkedin.com/in/esteban-florez-b210a5283) 💼
+* **Sitio Web:**: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
 
 ¡Gracias por visitar mi perfil!  Si tienes alguna pregunta o estás interesado en mi trabajo, ¡no dudes en contactarme! 😊
