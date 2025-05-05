@@ -32,7 +32,7 @@ He tenido la oportunidad de trabajar en proyectos como:
 ## 🔗  ¡Conectemos!
 
 * **Correo Electrónico:** eflorez077@gmail.com 📧
-* **LinkedIn:** [Esteban Florez](www.linkedin.com/in/esteban-florez-b210a5283) 💼
+* **LinkedIn:** [Esteban Florez](https://www.linkedin.com/in/esteban-florez-b210a5283) 💼
 * **Sitio Web:**: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
 
 ¡Gracias por visitar mi perfil!  Si tienes alguna pregunta o estás interesado en mi trabajo, ¡no dudes en contactarme! 😊
