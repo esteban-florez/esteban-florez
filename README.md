@@ -17,9 +17,6 @@ Manejo diferentes herramientas y tecnologías, incluyendo:
 
 He tenido la oportunidad de trabajar en proyectos como:
 
-* **Desarrollador Web Freelance en Selfie Salón:** Formé parte del equipo que desarrolló un sistema de reservas para salones de belleza y su backoffice administrativo.  Puedes ver los resultados aquí:
-    * [Sistema de Reservas](https://selfie.salon/) (Angular, NestJS, PostgreSQL, TailwindCSS) 📅
-    * [Backoffice Admin](https://admin.selfie.salon/) (Angular, NestJS, PostgreSQL, TailwindCSS) 🖥️
 * **Proyectos Universitarios en UPTA "Federico Brito Figueroa":** Durante mi formación, trabajé en varios proyectos, incluyendo:
     * [Sistema de Cursos y Clubes Universitarios](https://github.com/esteban-florez/uptavs-app) (Laravel, MySQL, JavaScript, Bootstrap, Chart.js) 📚
     * [Novaship - Aplicación Web de Gestión de Pasantías](https://novaship-dev.vercel.app/) (Next.js, PostgreSQL, React.js, TailwindCSS) 🚢
