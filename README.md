@@ -18,7 +18,7 @@ Manejo diferentes herramientas y tecnologías, incluyendo:
 He tenido la oportunidad de trabajar en proyectos como:
 
 * **Proyectos Universitarios en UPTA "Federico Brito Figueroa":** Durante mi formación, trabajé en varios proyectos, incluyendo:
-    * [Sistema de Cursos y Clubes Universitarios](https://github.com/esteban-florez/uptavs-app) (Laravel, MySQL, JavaScript, Bootstrap, Chart.js) 📚
+    * [Sistema de Cursos y Clubes Universitarios](https://cursos.sistemasolucionesits.space) (Laravel, MySQL, JavaScript, Bootstrap) 📚
     * [Novaship - Aplicación Web de Gestión de Pasantías](https://novaship-dev.vercel.app/) (Next.js, PostgreSQL, React.js, TailwindCSS) 🚢
 
 ## 🎓 Formación Académica
