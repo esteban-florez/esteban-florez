@@ -2,24 +2,29 @@
 
 ¡Bienvenido a mi pefil de GitHub! Soy Ingeniero en Informática 🚀 con experiencia en crear aplicaciones web tanto en el front-end como en el back-end. Me encanta resolver problemas 💡 y siempre estoy listo para aprender nuevas tecnologías.
 
-Actualmente estoy en busca de oportunidaes de empleo, si deseas contactarme, tienes la información de contacto en mi sitio web de portafolio personal, aquí: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
+Actualmente estoy en busca de oportunidaes de empleo, si deseas contactarme, tienes la información de contacto en mi sitio web de portafolio personal, aquí: [Esteban Florez - Desarrollador Web](https://estebanflorez.com/) 🌐
 
 ## 🛠️  ¿Qué puedo hacer?
 
 Manejo diferentes herramientas y tecnologías, incluyendo:
 
 * **Lenguajes y Frameworks Front-End:** JavaScript, React.js, Next.js, Vue.js, Angular, CSS, SASS, Bootstrap, Tailwind 🎨
-* **Lenguajes y Frameworks Back-End:** PHP, Laravel, NestJS ⚙️
+* **Lenguajes y Frameworks Back-End:** Node.js, NestJS, PHP, Laravel, Livewire, Filament ⚙️
 * **Bases de Datos:** MySQL, PostgreSQL 🗄️
-* **Otras Habilidades:** Git y GitHub, Inglés Intermedio 🌍
+* **Otras Habilidades:** Git y GitHub, Inglés B2 🌍
 
 ## 💼 Experiencia
 
-He tenido la oportunidad de trabajar en proyectos como:
+* **Desarrollador web full-stack:** Trabajo como Desarrollador web full-stack para la empresa Soluciones Integrales DGZL C.A. en Caracas, Venezuela. He desempeñado diferentes actividades relacionadas al Desarrollo web como:
+    * Diseño de bases de datos
+    * Desarrollo de nuevas aplicaciones y features
+    * Rediseño de interfaces y landing pages
+    * Corrección de bugs
+    * Despliegues a producción
 
-* **Proyectos Universitarios en UPTA "Federico Brito Figueroa":** Durante mi formación, trabajé en varios proyectos, incluyendo:
-    * [Sistema de Cursos y Clubes Universitarios](https://cursos.sistemasolucionesits.space) (Laravel, MySQL, JavaScript, Bootstrap) 📚
-    * [Novaship - Aplicación Web de Gestión de Pasantías](https://novaship-dev.vercel.app/) (Next.js, PostgreSQL, React.js, TailwindCSS) 🚢
+* **Proyectos Personales:** Durante mi formación como Desarrollador trabajé en varios proyectos personales, incluyendo:
+    * [Sistema de Cursos y Clubes Universitarios](https://estebanflorez.com/sistema-cursos) (Laravel, MySQL, JavaScript, Bootstrap) 📚
+    * [Novaship - Aplicación Web de Gestión de Pasantías](https://novaship.estebanflorez.com) (Next.js, PostgreSQL, React.js, TailwindCSS) 🚢
 
 ## 🎓 Formación Académica
 
@@ -29,7 +34,7 @@ He tenido la oportunidad de trabajar en proyectos como:
 ## 🔗  ¡Conectemos!
 
 * **Correo Electrónico:** eflorez077@gmail.com 📧
-* **LinkedIn:** [Esteban Florez](https://www.linkedin.com/in/esteban-florez-b210a5283) 💼
-* **Sitio Web:**: [Esteban Florez - Desarrollador Web](https://portfolio-esteban-florez-projects.vercel.app/) 🌐
+* **LinkedIn:** [Esteban Florez](https://www.linkedin.com/in/florezdev) 💼
+* **Sitio Web:**: [Esteban Florez - Desarrollador Web](https://estebanflorez.com) 🌐
 
 ¡Gracias por visitar mi perfil!  Si tienes alguna pregunta o estás interesado en mi trabajo, ¡no dudes en contactarme! 😊
