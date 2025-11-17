@@ -15,7 +15,7 @@ Manejo diferentes herramientas y tecnologías, incluyendo:
 
 ## 💼 Experiencia
 
-* **Desarrollador web full-stack:** Trabajo como Desarrollador web full-stack para la empresa Soluciones Integrales DGZL C.A. en Caracas, Venezuela. He desempeñado diferentes actividades relacionadas al Desarrollo web como:
+* **Desarrollador web full-stack:** Trabajo como Desarrollador web full-stack para la empresa Soluciones Integrales DGZL C.A. en Caracas, Venezuela desde septiembre de 2023 (2 años de experiencia). He desempeñado diferentes actividades relacionadas al Desarrollo web como:
     * Diseño de bases de datos
     * Desarrollo de nuevas aplicaciones y features
     * Rediseño de interfaces y landing pages
